@@ -24,12 +24,18 @@
 
   ## Installation
   To use this application, please run the following commands in the root of your project to install the necessary packages:
-  * npm init
-  * npm install
+  ```
+  npm init
+  ```
+  ```
+  npm install
+  ```
 
   ## Usage
   After cloning this repository to your local device and installing the packages listed above, you can start the application by typing this command into your terminal:
+  ```
   node server.js
+  ```
   
   ### Screenshots of Insomnia
   * USER routes can GET all users, GET a single user by id, POST a new user, PUT to update a user, and DELETE a user.
